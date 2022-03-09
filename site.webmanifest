@@ -1,0 +1,15 @@
+{
+  "name": "Audiobytes",
+  "short_name": "Audio player for YouTube",
+  "icons": [
+    {
+      "src": "/images/audiobyte_logo.png",
+      "sizes": "447x447",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
